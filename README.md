@@ -1,4 +1,4 @@
-# Image scraping service
+# scrape images using puppeteer
 
 ## Build in openshift
 
